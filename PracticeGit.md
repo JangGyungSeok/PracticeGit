@@ -1,6 +1,6 @@
 # Git 사용 순서
 1. 설정
-- 
+- git init 현재 디렉토리를 git과 연동함
 - git config --global user.email "내 계정정보"
 - git config --global user.name "업로드 할 때 내 이름"
 
